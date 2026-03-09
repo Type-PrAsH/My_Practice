@@ -6,15 +6,20 @@ int main()
     int pound1{}, shilling1{}, pence1{};
     int pound2{}, shilling2{}, pence2{};
     
-    char dummychar{};
+    char here{};
+    
 
     do
     {
         std::cout<<"Enter First Amount: ";
-        std::cin>>pound1>>dummychar>>shilling1>>dummychar>>pence1;
+        std::cin>>pound1>>here>>shilling1>>here>>pence1;
 
         std::cout<<"Enter Second Amount: ";
-        std::cin>>pound2>>dummychar>>shilling2>>dummychar>>pence2;
+   here
+here
+here
+shilling2
+here     std::cin>>pound2>>here>>shilling2>>here>>pence2;
 
         
 
@@ -22,9 +27,9 @@ int main()
 
 
         std::cout<<"Do You Wish To Continue(y/n)? ";
-        std::cin>>dummychar;
+        std::cin>>here;
 
-    }while(dummychar=='y');
+    }while(here=='y');
 
     
 }

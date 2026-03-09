@@ -6,6 +6,7 @@ class Distance
         int feet;
         float inches;
 
+        
     public:
 
     void set_zero()
