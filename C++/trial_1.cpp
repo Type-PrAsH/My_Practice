@@ -18,7 +18,7 @@ int main()
     std::cout<<"Enter 2nd number: ";
     std::cin>>b;
 
-    swap(a, b);
+    swap(a,b);
 
     std::cout<<a<<" "<<b;
 }
