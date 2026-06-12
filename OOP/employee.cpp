@@ -41,6 +41,11 @@ int main()
     e1.displayData();
     e2.displayData();
     e3.displayData();
+
+    e3 = e2.sum(e1);
+
+    e3 = e2 + e1;
+
     return
      0;
 }
