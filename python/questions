@@ -1,3 +1,9 @@
+2nd lab
 Q1) Calculate the factorial of a no representing the possible routing function in a network
 Q2) wap a recursive function to find sum of natural numbers to calculate accumulated daily sales
 Q3) wap a recursive function to convert decimal ip address into binary format 
+
+3rd lab
+Q1) Log event symmetry: check whether a string is a palindrome
+Q2) Data Cleansing: Remove punctuations from scraped string data to prepare it for natural language
+Q3) Search engine Indexing: sort words in alphabetical order to build a basic keyword index.
