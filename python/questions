@@ -7,3 +7,8 @@ Q3) wap a recursive function to convert decimal ip address into binary format
 Q1) Log event symmetry: check whether a string is a palindrome
 Q2) Data Cleansing: Remove punctuations from scraped string data to prepare it for natural language
 Q3) Search engine Indexing: sort words in alphabetical order to build a basic keyword index.
+
+4th lab
+Q1)WAP to remove duplicate payload data using set
+Q2)wap to store and display immutable gps 
+Q3)wap to create and manage a dynamic task queue using list
